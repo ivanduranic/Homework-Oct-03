@@ -27,6 +27,14 @@ g) Application's CSS selectors and properties are consolidated and organized to 
 
 h) Application's CSS file is commented so you can easily track the refactoring I've made.
 
+i) Links to a screenshot of the deployed application: 
+![image](https://user-images.githubusercontent.com/61889668/94982414-3743ce80-0508-11eb-83a3-31516fad15cc.png)
+![image](https://user-images.githubusercontent.com/61889668/94982421-49257180-0508-11eb-9b8d-073a0ff247e2.png)
+![image](https://user-images.githubusercontent.com/61889668/94982428-517dac80-0508-11eb-95b4-78623b158420.png)
+
+j) Link to a deployed application:
+https://ivanduranic.github.io/refactoring-horiseon-oct-03/.
+
 
 Many thanks for entrusting me with this project. 
 
