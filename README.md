@@ -13,7 +13,7 @@ done in accordance with all the latest industry standards.
 
 a) Divs in html have been renamed accordingly as header, section, article, asside and footer.
 
-b) HTML elements follow a logical structure.
+b) HTML elements follow a logical structure (added link to reset.css).
 
 c) Alt attributes have been added to image elements.
 
