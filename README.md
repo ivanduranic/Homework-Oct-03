@@ -25,7 +25,7 @@ f) Application links are made to function correctly by adding id attributes insi
 
 g) Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
 
-h) Application's CSS file is commented so you can easily track the refactoring I've made.
+h) Application's HTML and CSS file are commented so you can easily track the refactoring I've made.
 
 i) Links to a screenshot of the deployed application: 
 ![image](https://user-images.githubusercontent.com/61889668/94982414-3743ce80-0508-11eb-83a3-31516fad15cc.png)
