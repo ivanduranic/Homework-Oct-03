@@ -1,4 +1,4 @@
-# homework-oct-03
+# refactoring-horiseon-oct-03
 This Repository contains my first homework of the Boot Camp
 
 Refactoring code project for Horiseon
